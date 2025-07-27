@@ -2,10 +2,15 @@
 A simple and responsive note-taking web application built using React.js and Vite. Create, delete, and manage your notes with ease — perfect for quick thoughts or task tracking.
 
 🚀 Features:
+
 ✅ Create and display notes instantly
+
 🗑️ Delete notes with one click
+
 🔍 Search and filter notes (optional enhancement)
+
 🎨 Simple, clean UI with responsive layout
+
 ⚡ Powered by React.js + Vite for fast development
 
 🧠 Tech Stack: 
