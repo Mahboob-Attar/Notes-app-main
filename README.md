@@ -23,22 +23,14 @@ A simple and responsive note-taking web application built using React.js and Vit
 
 📂 Project Structure:
 main/
-├── assets/  
-#Images or icons
-├── components/   
-#React components (Note, NoteList, Header)
-├── App.jsx    
-#Root component
-├── index.jsx    
-#React entry point
-├── index.html     
-#HTML template
-├── style.css     
-#Global styles
-├── package.json  
-#Dependencies and scripts
-├── vite.config.js   
-#Vite config
+├── assets/             # Images or icons
+├── components/         # React components (Note, NoteList, Header)
+├── App.jsx             # Root component
+├── index.jsx           # React entry point
+├── index.html          # HTML template
+├── style.css           # Global styles
+├── package.json        # Dependencies and scripts
+├── vite.config.js      # Vite config
 └── README.md
 
 ⚙️ How to Run the App:
