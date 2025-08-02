@@ -34,27 +34,19 @@ main/
 └── README.md
 
 ⚙️ How to Run the App:
- Clone the repository
-git clone https://github.com/your-username/react-notes-app.git
-cd react-notes-app
- Install dependencies
-npm install
- Start the development server
-npm run dev
- Then open on local host
 
-
-# Copy and paste these commands in your terminal:
-
+# Clone the repository
 ```bash
 git clone https://github.com/your-username/react-notes-app.git
 ```
 ```bas
 cd react-notes-app
 ```
+ # Install dependencies
 ```bas
 npm install
 ```
+# Start the development server
 ```bas
 npm run dev
 ```
