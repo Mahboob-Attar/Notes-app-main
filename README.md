@@ -48,8 +48,14 @@ npm run dev
 
 ```bash
 git clone https://github.com/your-username/react-notes-app.git
+```
+```bas
 cd react-notes-app
+```
+```bas
 npm install
+```
+```bas
 npm run dev
 ```
 
