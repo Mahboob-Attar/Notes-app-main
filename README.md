@@ -41,4 +41,5 @@ cd react-notes-app
 npm install
 # Start the development server
 npm run dev
-# Then open: http://localhost:5173
+# Then open on local host
+
